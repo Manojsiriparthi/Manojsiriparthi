@@ -8,8 +8,7 @@ I'm a passionate DevOps Engineer with a strong background in Kubernetes, Terrafo
 - **Tools:** Kubernetes, Terraform, Jenkins, Docker, Git
 - **Cloud Platforms:** AWS, Azure
 - **CI/CD:** Jenkins, GitHub Actions, CircleCI
-
-## 📈 GitHub Stats
+  
 ![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojsiriparthi&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
